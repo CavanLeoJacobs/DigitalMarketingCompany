@@ -34,6 +34,7 @@ public class AlbumsDto implements Serializable
 
     public AlbumsDto(AlbumsDto albums)
     {
+
         this.setAlbumsID(albums.getAlbumsID());
         this.setFileFormat(albums.getFileFormat());
         this.setGeolocation(albums.getGeolocation());
