@@ -1,0 +1,9 @@
+marketing\company\domain\persistence\Photos.class
+marketing\company\domain\exceptions\PhotosExceptions.class
+marketing\company\domain\persistence\Albums.class
+marketing\company\domain\exceptions\AlbumsExceptions.class
+marketing\company\domain\services\PhotosGeneralResponse.class
+marketing\company\domain\dto\AlbumsDto.class
+marketing\company\domain\dto\PhotosDto.class
+marketing\company\domain\services\AlbumsGeneralResponse.class
+marketing\company\domain\exceptions\DomainExceptions.class
