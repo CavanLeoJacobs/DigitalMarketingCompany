@@ -1,7 +1,0 @@
-marketing\company\web\config\WebConfig.class
-marketing\company\web\controller\PhotosController.class
-marketing\company\web\AppMainMethod.class
-marketing\company\web\controller\AlbumsController.class
-marketing\company\web\config\ApplicationConfig.class
-marketing\company\web\exceptions\ApplicationExceptions.class
-marketing\company\web\exceptions\WebExceptions.class

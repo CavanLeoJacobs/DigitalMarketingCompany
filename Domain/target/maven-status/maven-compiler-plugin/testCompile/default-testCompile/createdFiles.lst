@@ -1,7 +1,0 @@
-marketing\company\domain\services\AlbumsGeneralResponseTest.class
-marketing\company\domain\persistence\AlbumsTest.class
-marketing\company\domain\dto\AlbumsDtoTest.class
-marketing\company\domain\persistence\PhotosTest.class
-marketing\company\domain\services\PhotosGeneralResponseTest.class
-marketing\company\domain\dto\PhotosDtoTest.class
-marketing\company\domain\exceptions\DomainExceptionsTest.class
